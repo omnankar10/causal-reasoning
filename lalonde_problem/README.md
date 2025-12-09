@@ -1,4 +1,3 @@
-readme_content = """
 # Causal Inference Analysis of NSW Data
 
 This document details a causal inference analysis performed on the National Supported Work (NSW) Demonstration dataset using the DoWhy library in Python. The objective is to estimate the causal effect of a job training program (treatment) on an individual's real earnings in 1978 (outcome), while accounting for potential confounding factors.
